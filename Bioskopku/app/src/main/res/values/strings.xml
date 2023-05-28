@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bioskopku</string>
+
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="total_harga">Rp %d</string>
+    <string name="harga_tiket">Harga Tiket</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="back">Back</string>
+    <string name="description">Deskripsi</string>
+    <string name="add_to_cart">Tambah ke Keranjang : %d Pts</string>
+    <string name="share_message">Hey, I have redeem %1$d rewards in Dicoding with total %2$d Points. Do you want too?</string>
+    <string name="tiket_bioskopku">Tiket Nonton Bioskopku</string>
+</resources>
